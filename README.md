@@ -11,7 +11,7 @@ Die Vision von "TH-Bump" ist es, ein innovatives und interaktives System für St
 
 ### Relevanz
 
-Durch die immer fortschreitende Digitalisierung, sowie vermehrte Remote Arbeit wird "die gegenwärtige Epoche auch als Zeitalter der Einsamkeit bezeichnet" [1]. Wir wollen mit TH-Bump ein Tool erschaffen, welches wieder direkten menschlichen Austausch unter den Studierenden ermöglicht, um soziale Kontakte und soziale Bindungen zu kreiren, auszubauen und zu verstärken. Auch würde es die Zugehörigkeit zum Campus Gummersbach steigern, da die Studierenden auf spielerischer Weise am Campus leben aktiv teilnehmen.
+Durch die immer fortschreitende Digitalisierung, sowie vermehrte Remote Arbeit wird "die gegenwärtige Epoche auch als Zeitalter der Einsamkeit bezeichnet" [1]. Wir wollen mit TH-Bump ein Tool erschaffen, welches wieder primär den direkten menschlichen Austausch unter den Studierenden ermöglicht, um soziale Kontakte und soziale Bindungen zu kreiren, auszubauen und zu verstärken. Auch würde es die Zugehörigkeit zum Campus Gummersbach steigern, da die Studierenden auf spielerischer Weise am Campus leben aktiv teilnehmen.
 
 ## Domäne
 
