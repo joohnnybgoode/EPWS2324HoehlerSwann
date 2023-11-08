@@ -1,10 +1,12 @@
 
 | Aufgabe  | Tom  | John |
-| Recherche | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| Recherche | x  | x  |
 | Domänenmodell | x  | x  |
 | Stakeholder | x | x |
+| A&E | x | x |
+| Zielsetzung | x | x |
+| Exposé | x | x |
+| Risken | x | x |
+| Theoretische Umsetzung | x | x |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
