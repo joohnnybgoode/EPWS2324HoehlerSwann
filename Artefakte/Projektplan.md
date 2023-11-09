@@ -1,6 +1,6 @@
 # Audit 1
 
-| Aufgabe        |               |
+| Aufgabe        |  Status       |
 | -------------  | ------------- |
 | Recherche      | ✅            |
 | Domänenmodell  | ✅            |
