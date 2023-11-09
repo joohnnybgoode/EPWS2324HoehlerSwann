@@ -1,13 +1,15 @@
 # Audit 1
 
-| Aufgabe  | Tom  | John |
-| ------------- | ------------- | ------------- |
-| Recherche | x  | x  |
-| Domänenmodell | x  | x  |
-| Stakeholder | x | x |
-| A&E | x | x |
-| Zielsetzung | x | x |
-| Exposé | x | x |
-| Risken | x | x |
-| Theoretische Umsetzung | x | x |
+| Aufgabe        |               |
+| -------------  | ------------- |
+| Recherche      | ✅            |
+| Domänenmodell  | ✅            |
+| Stakeholder    | ✅ ⚠️        |
+| A&E            | 🚧             |
+| Zielsetzung    | ✅             |
+| Exposé         | ✅             |
+| Risken         | 🚧             |
+| Umsetzung      | ❌             |
 
+### Legende
+✅ erledigt 🚧 work in progress ❌ nicht erledigt ⚠️ sollte iteriert werden
