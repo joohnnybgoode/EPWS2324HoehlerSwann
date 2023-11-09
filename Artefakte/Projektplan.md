@@ -5,10 +5,10 @@
 | Recherche      | ✅            |
 | Domänenmodell  | ✅            |
 | Stakeholder    | ✅ ⚠️        |
-| A&E            | 🚧             |
+| A&E            | 🚧 ⚠️         |
 | Zielsetzung    | ✅             |
 | Exposé         | ✅             |
-| Risken         | 🚧             |
+| Risken         | 🚧 ⚠️         |
 | Umsetzung      | ❌             |
 
 ### Legende
