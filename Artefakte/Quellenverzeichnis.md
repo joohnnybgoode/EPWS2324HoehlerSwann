@@ -12,3 +12,12 @@
 [6] https://www.faz.net/aktuell/wirtschaft/schneller-schlau/einsamkeit-und-die-folgen-krankheiten-wirtschaftlicher-schaden-und-co-19142623.html
 
 [7] https://course.feverbee.com/wp-content/uploads/2011/06/Lesson-15.pdf (The membership lifecycle)
+
+[8] https://www.presseportal.de/pm/6586/5544327
+
+[9] https://www.youtube.com/watch?v=K9P6APWRMw0 (hr)
+
+[10] https://www.youtube.com/watch?v=opRi7giTQ4Q (ZDFheute)
+
+[11] https://www.youtube.com/watch?v=DwqwRYe6fKA (Kurzgesagt)
+
