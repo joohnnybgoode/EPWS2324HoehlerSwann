@@ -9,7 +9,7 @@
 | Zielsetzung    | ✅             |
 | Exposé         | ✅             |
 | Risken         | 🚧 ⚠️         |
-| Umsetzung      | ❌             |
+| POC            | ❌             |
 
 ### Legende
 ✅ erledigt 🚧 work in progress ❌ nicht erledigt ⚠️ sollte iteriert werden
