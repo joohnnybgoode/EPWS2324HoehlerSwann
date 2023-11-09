@@ -18,7 +18,7 @@ Es ist wichtig, Sicherheitsaspekte während der Entwicklung der App sorgfältig 
 
 ### Zielsetzung / Vision
 
-Die Vision von "TH-Bump" ist es, ein innovatives und interaktives System für Studierende an der TH Köln zu schaffen, das das Campusleben bereichert und die Verbundenheit innerhalb der Hochschulgemeinschaft stärkt. Die Studierenden sollen sich ohne Druck spontan zusammenfinden können und so in einen organischen sozialen Austausch treten können. Durch einen gamifizierten Ansatz soll die Motivation gesteigert werden das System für die User   ansprechend zu gestalten.
+Die Vision von "TH-Bump" ist es, ein innovatives und interaktives System für die User zu schaffen, das das soziale Leben bereichert und die Verbundenheit. Die User sollen sich ohne Druck spontan zusammenfinden können und so in einen organischen sozialen Austausch treten können. Durch einen gamifizierten Ansatz soll die Motivation gesteigert werden um das System für die User ansprechend zu gestalten.
 
 ### Relevanz
 
