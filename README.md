@@ -1,4 +1,4 @@
-# EPWS2324Swan-Hoehler
+# EPWS2324HoehlerSwann
 
 ## Exposé
 
