@@ -15,14 +15,9 @@
 
 | Aufgabe        |  Status       |
 | -------------  | ------------- |
-| Modellierung Iterieren nach Feedback     | ✅            |
-| vertikaler Rapid Prototype         | ✅  ⚠️         |
-|   | ✅            |
-|     | ✅ ⚠️        |
-|             | 🚧 ⚠️         |
-|     | ✅             |
-|          | ✅             |
-| POC            | 🚧⚠️              |
+| Modellierung Iterieren nach Feedback     |             |
+| Technische Umsetzung planen     |             |
+| vertikaler Rapid Prototype         |          |
 
 ### Legende
 ✅ erledigt 🚧 work in progress ❌ nicht erledigt ⚠️ sollte iteriert werden
